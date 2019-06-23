@@ -15,3 +15,5 @@ Go to the browser and hit http://localhost:3000/ping
 #Express JS
 npm init
 npm install express --save
+
+node .\expressapp.js
