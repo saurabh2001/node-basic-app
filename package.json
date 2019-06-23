@@ -1,0 +1,23 @@
+{
+  "name": "node-basic-app",
+  "version": "1.0.0",
+  "description": "node version 10",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo 'tests not included yet'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabh2001/node-basic-app.git"
+  },
+  "author": "saurabh shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saurabh2001/node-basic-app/issues"
+  },
+  "homepage": "https://github.com/saurabh2001/node-basic-app#readme"
+}
